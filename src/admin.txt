@@ -1,0 +1,32 @@
+🔹 Admin Roles and Responsibilities in an eCommerce Website
+
+1. Vendor Management
+Approving or rejecting vendor registrations.
+Monitoring vendor performance and compliance.
+Managing vendor payouts and commission structures.
+Handling vendor disputes or escalations.
+
+2. Product and Category Management
+Creating and organizing product categories and subcategories.
+Approving vendor-submitted product listings (if moderated).
+Managing featured or promoted products.
+Controlling visibility of products on the storefront.
+
+
+3. Order and Transaction Oversight
+Monitoring all orders placed across the platform.
+Ensuring proper order routing to vendors or fulfillment centers.
+Overseeing returns, cancellations, and refunds.
+Managing platform-wide logistics or integrating shipping APIs.
+
+
+4. User Management
+Managing customer accounts (suspensions, support).
+Handling user reviews, ratings, and feedback moderation.
+Addressing customer service escalations
+
+
+5.Financial and Reporting
+Managing commissions, vendor payments, and transaction logs.
+Monitoring revenue, order volume, and vendor performance metrics.
+Generating reports on sales, customer behavior, and inventory.

@@ -1,0 +1,25 @@
+1. Product Listing and Management
+Uploading product information (name, description, images, specifications).
+
+Categorizing products correctly.
+
+Updating product availability (inventory management).
+
+Setting accurate pricing.
+
+2. Order Fulfillment
+Receiving order notifications.
+
+Packing and shipping products in a timely manner.
+
+Updating order status (e.g., shipped, delivered).
+
+3. Inventory Management
+Monitoring stock levels.
+
+Restocking products as needed.
+
+Removing or disabling out-of-stock products
+
+
+
