@@ -1,0 +1,25 @@
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+[Auth Login] Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (/var/www/html/team_projects/ecommerce/server/node_modules/jsonwebtoken/sign.js:213:22)
+    at exports.login (/var/www/html/team_projects/ecommerce/server/src/controllers/authController.js:21:23)
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
+Server listening at http://localhost:5000
