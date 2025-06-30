@@ -1,10 +1,12 @@
-const express = require("express");
+import express from "express";
+import cors from "cors";
+import helmet from "helmet";
+import cookieParser from "cookie-parser";
+
+import authRoutes from "./routes/authRoutes.js";
+
 const app = express();
 const port = process.env.PORT || 5000;
-const cors = require("cors");
-const helmet = require("helmet");
-const authRoutes = require("./routes/authRoutes");
-const cookieParser = require('cookie-parser');
 
 app.use(cors());
 app.use(helmet());
